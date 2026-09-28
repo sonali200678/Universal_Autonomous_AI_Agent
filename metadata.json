@@ -1,0 +1,6 @@
+{
+  "name": "UAMC-I — Universal Autonomous Multi-Agent Cognitive Intelligence",
+  "description": "Enterprise AI Operating Ecosystem & Multi-Agent Cognitive Intelligence Platform for Orchestration, Guardrails, FinOps, and RAG.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
